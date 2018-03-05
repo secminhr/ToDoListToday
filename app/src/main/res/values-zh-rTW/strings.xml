@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ToDoList Today</string>
+    <string name="title">標題</string>
+    <string name="add_new">加新事項</string>
+    <string name="notification_time">提醒時間</string>
+    <string name="notification_message">提醒時間: %1$s</string>
+    <string name="edit">編輯</string>
+    <string name="delete">刪除</string>
+    <string name="edit_todo">編輯事項</string>
+    <string name="notification_content">是時候來 </string>
+</resources>

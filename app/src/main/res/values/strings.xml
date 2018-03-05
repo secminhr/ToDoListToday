@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">ToDoList Today</string>
-    <string name="action_settings">Settings</string>
+    <string name="title">Title</string>
+    <string name="add_new">Add new Todo</string>
+    <string name="notification_time">Notification Time</string>
+    <string name="notification_message">Notification Time: %1$s</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="edit_todo">Edit Todo</string>
+    <string name="notification_content">It\'s time to </string>
 </resources>
